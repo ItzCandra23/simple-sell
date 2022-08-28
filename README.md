@@ -1,1 +1,3 @@
 # simple-sell
+*/sell
+*/admsell 
