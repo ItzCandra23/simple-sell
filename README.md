@@ -1,3 +1,3 @@
 # simple-sell
-*/sell
-*/admsell 
+* /sell
+* /admsell 
